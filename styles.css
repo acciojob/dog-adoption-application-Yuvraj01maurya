@@ -39,7 +39,7 @@
       height: auto;
     }
 
-    input[type="submit"] {
+    button{
       background-color: #4CAF50;
       color: #fff;
       padding: 10px 20px;
@@ -48,6 +48,8 @@
       cursor: pointer;
     }
 
-    input[type="submit"]:hover {
-      background-color: #45a049;
+    button:hover {
+      background-color: orangered;
     }
+
+
